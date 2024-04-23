@@ -1,2 +1,7 @@
 # medicine-donation
 Unused Medicines and Other Things Donation System
+Abstract: This abstract discusses the importance of an unused medicine donation system and other things for non-governmental organizations (NGOs) and outlines the key steps involved in creating such a system. The system involves identifying potential donors, creating a clear and straightforward donation process, partnering with NGOs to distribute the donated medications to those in need, training staff and volunteers, and monitoring and evaluating the effectiveness of the system. This system ensures that unused and unexpired medications are put to good use and provides life-saving medications to vulnerable communities. 
+
+Medications are a fundamental component in lightening enduring, and gifts of clinical supplies with incredibly profit worldwide helpful aid projects. This medication gift application is about the assortment of medication that is unused by the patient who recuperates totally and remaining prescriptions becomes squander, those medications can be gathered and utilized further. This excess medication can be utilized by NGOs, Hospitals who are to be sure for those prescriptions. By the utilization of this entry, there will be less wastage of drugs. The aim and object of this project are to prepare an Online Portal for the collection of unused medicines and other essential things so that they can be given to the people who are in need.
+
+Keywords: Online Portal, Collection, Unused Medicine, NGOs and Donation, poor people, Medication, Hospitals, people in need.
